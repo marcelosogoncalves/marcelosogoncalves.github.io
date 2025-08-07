@@ -61,4 +61,4 @@ nav_order: 5
 ## Instructor  
 **University of Brasília**, Brazil  
 *2006 & 2008*  
-- Undergraduate course: **Introduction to Political Science**
+- Undergraduate course: **Introduction to Political Science** 
