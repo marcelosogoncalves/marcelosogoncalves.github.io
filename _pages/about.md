@@ -27,6 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Marcelo S. O. Goncalves is a scholar of political economy whose work explores the intersection of development, climate, and environmental governance. His research focuses on the institutional and political determinants of sustainable development, with a particular emphasis on land use, climate adaptation, and social equity in the Global South.
+
+Drawing on insights from both political science and economics, Marcelo adopts an interdisciplinary perspective to analyze how policies and power structures shape environmental and development outcomes. His work combines causal inference, field experiments, and geospatial analysis to better understand challenges such as deforestation, climate resilience, and public service delivery.
+
+Marcelo is currently a PhD candidate in Public Policy at Duke University, and has over 15 years of experience as a policy practitioner in the Brazilian federal government. He has collaborated on numerous policy evaluations and led initiatives in areas ranging from food security to racial equity and climate adaptation.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
