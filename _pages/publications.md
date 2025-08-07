@@ -9,12 +9,14 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature -->
-
+<!-- Bibsearch Feature (temporarily disabled) -->
+{% comment %}
 {% include bib_search.liquid %}
+{% endcomment %}
 
 <div class="publications">
 
 {% bibliography %}
 
 </div>
+
