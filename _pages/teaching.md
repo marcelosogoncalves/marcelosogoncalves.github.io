@@ -10,7 +10,11 @@ nav_order: 6
 ## Teaching Assistant  
 **Duke University**
 *2022–2024*  
-- Graduate-level courses: **Statistics**, **Master’s Project**, and **Evaluation of Public Expenditures**
+- Graduate-level courses:
+  - **Statistics for Policy Makers (PUBPOL812)** (Supervisor: Marcos Rangel)
+  - **Quantitative Evaluation Methods (PUBPOL 813)** (Supervisor: Marcos Rangel)
+  - **Master’s Project Preparation (PUBPOL 701)** (Supervisor: Kenneth Rogerson)
+  - **Evaluation of Public Expenditures (ECON521D)** (Supervisors: Roy Kelly, Fernando R. Fernholz & Gangadhar P. Shukla)
 
 ---
 
