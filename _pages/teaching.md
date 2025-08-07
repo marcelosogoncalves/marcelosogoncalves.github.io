@@ -11,6 +11,7 @@ nav_order: 5
 **Duke University**  
 *Fall 2025*  
 - **Political Economy of Climate & Environment**. Co-taught with Subhrendu Pattanayak
+Description: Might a political economy lens help us better understand why there is progress or stalemates in achieving socially optimal climate and other environmental goals? In an era where climate and environmental challenges are increasingly urgent and complicated, we will draw on economics, politics, and their dynamic interplay to better understand both how (a) institutions and incentives shape the actions of diverse actors, and (b) where policies succeed or falter in delivering climate and environmental outcomes. By considering choices and constraints facing not just politicians and voters, but also bureaucrats, NGOs, community organizations, and an array of non-state actors, we will divide attention equally between the design and ultimate implementation of policy. The program is divided into three sections, progressing from foundational “classic” theories in political economy to constraints and choices of key political actors to contemporary applications to forests, energy, water and climate.  
 
 ---
 
