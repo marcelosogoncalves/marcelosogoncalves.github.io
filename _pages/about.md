@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  <a href='https://sanford.duke.edu/' target='_blank'>Sanford School of Public Policy</a>. 
 
 profile:
   align: right
