@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href='https://sanford.duke.edu/' target='_blank'>Sanford School of Public Policy</a>
+  Duke University. <a href='https://sanford.duke.edu/' target='_blank'>Sanford School of Public Policy</a>
 
 profile:
   align: right
