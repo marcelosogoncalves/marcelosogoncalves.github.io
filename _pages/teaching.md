@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Materials for the courses I taught are available upon request.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ## Instructor of Record  
