@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Marcelo S. O. Goncalves is a scholar of political economy whose work explores the intersection of development, climate, and environmental governance. His research focuses on the institutional and political determinants of sustainable development, with a particular emphasis on land use, climate adaptation, and social equity in the Global South.
+Marcelo S. O. Goncalves is a political economist whose work explores the intersection of development, climate, and environmental governance. His research focuses on the institutional and political determinants of sustainable development, with a particular emphasis on land use, climate adaptation, and social equity in the Global South.
 
 Drawing on insights from both political science and economics, Marcelo adopts an interdisciplinary perspective to analyze how policies and power structures shape environmental and development outcomes. His work combines causal inference, field experiments, and geospatial analysis to better understand challenges such as deforestation, climate resilience, and public service delivery.
 
