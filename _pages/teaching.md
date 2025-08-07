@@ -10,8 +10,8 @@ nav_order: 5
 ## Instructor of Record  
 **Duke University**  
 *Fall 2025*  
-- **Political Economy of Climate & Environment**. Co-taught with Subhrendu Pattanayak
-Description: Might a political economy lens help us better understand why there is progress or stalemates in achieving socially optimal climate and other environmental goals? In an era where climate and environmental challenges are increasingly urgent and complicated, we will draw on economics, politics, and their dynamic interplay to better understand both how (a) institutions and incentives shape the actions of diverse actors, and (b) where policies succeed or falter in delivering climate and environmental outcomes. By considering choices and constraints facing not just politicians and voters, but also bureaucrats, NGOs, community organizations, and an array of non-state actors, we will divide attention equally between the design and ultimate implementation of policy. The program is divided into three sections, progressing from foundational “classic” theories in political economy to constraints and choices of key political actors to contemporary applications to forests, energy, water and climate.  
+- **Political Economy of Climate and Environment** — co-taught with Subhrendu Pattanayak  
+  Description: Might a political economy lens help us better understand why there is progress or stalemates in achieving socially optimal climate and other environmental goals? In an era where climate and environmental challenges are increasingly urgent and complicated, we will draw on economics, politics, and their dynamic interplay to better understand both how (a) institutions and incentives shape the actions of diverse actors, and (b) where policies succeed or falter in delivering climate and environmental outcomes. By considering choices and constraints facing not just politicians and voters, but also bureaucrats, NGOs, community organizations, and an array of non-state actors, we will divide attention equally between the design and ultimate implementation of policy. The program is divided into three sections, progressing from foundational “classic” theories in political economy to constraints and choices of key political actors to contemporary applications to forests, energy, water and climate.
 
 ---
 
@@ -19,10 +19,10 @@ Description: Might a political economy lens help us better understand why there 
 **Duke University**  
 *2022–2024*  
 - Graduate-level courses:
-  - **Statistics for Policy Makers (PUBPOL 812)**. Supervisor: Marcos Rangel  
-  - **Quantitative Evaluation Methods (PUBPOL 813)**. Supervisor: Marcos Rangel  
-  - **Master’s Project Preparation (PUBPOL 701)**. Supervisor: Kenneth Rogerson  
-  - **Evaluation of Public Expenditures (ECON 521D)**. Supervisors: Roy Kelly, Fernando R. Fernholz, and Gangadhar P. Shukla
+  - **Statistics for Policy Makers (PUBPOL 812)** — supervisor: Marcos Rangel  
+  - **Quantitative Evaluation Methods (PUBPOL 813)** — supervisor: Marcos Rangel  
+  - **Master’s Project Preparation (PUBPOL 701)** — supervisor: Kenneth Rogerson  
+  - **Evaluation of Public Expenditures (ECON 521D)** — supervisors: Roy Kelly, Fernando R. Fernholz, and Gangadhar P. Shukla
 
 ---
 
@@ -62,4 +62,4 @@ Description: Might a political economy lens help us better understand why there 
 ## Instructor  
 **University of Brasília**, Brazil  
 *2006 & 2008*  
-- Undergraduate course: **Introduction to Political Science** 
+- Undergraduate course: **Introduction to Political Science**
