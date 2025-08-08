@@ -9,16 +9,14 @@ nav_order: 3
 
 <div class="projects">
   <h3>Working Papers</h3>
-  <div class="grid">
-    <div class="grid-sizer"></div>
+  <div class="project-list">
     {% bibliography --file working_papers --template project %}
   </div>
 
   <hr>
 
   <h3>Work in Progress</h3>
-  <div class="grid">
-    <div class="grid-sizer"></div>
+  <div class="project-list">
     {% bibliography --file working_progress --template project %}
   </div>
 </div>
