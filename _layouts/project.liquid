@@ -1,0 +1,36 @@
+{%- comment -%}
+Minimal custom template for Jekyll Scholar entries
+Place in: _layouts/project.liquid
+{%- endcomment -%}
+
+<div class="project-card">
+  {%- if entry.thumbnail -%}
+    <img class="project-thumb" src="{{ entry.thumbnail | relative_url }}" alt="Thumbnail for {{ entry.title }}">
+  {%- endif -%}
+
+  <h4 class="project-title">{{ entry.title }}</h4>
+
+  <p class="project-authors">{{ entry.author }}</p>
+
+  {%- if entry.status -%}
+    <p class="project-status"><strong>Status:</strong> {{ entry.status }}</p>
+  {%- endif -%}
+
+  {%- if entry.keywords -%}
+    <p class="project-keywords">{{ entry.keywords }}</p>
+  {%- endif -%}
+
+  {%- if entry.abstract -%}
+    <details class="project-abstract">
+      <summary>Abstract</summary>
+      <p>{{ entry.abstract }}</p>
+    </details>
+  {%- endif -%}
+
+  <div class="project-links">
+    {%- if entry.pdf -%}<a href="{{ entry.pdf }}">📄 PDF</a>{%- endif -%}
+    {%- if entry.slides -%} · <a href="{{ entry.slides }}">📊 Slides</a>{%- endif -%}
+    {%- if entry.code -%} · <a href="{{ entry.code }}">💻 Code</a>{%- endif -%}
+  </div>
+</div>
+
