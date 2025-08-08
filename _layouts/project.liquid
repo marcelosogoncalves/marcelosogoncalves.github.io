@@ -1,10 +1,10 @@
 {%- comment -%}
 Custom template for Jekyll Scholar entries
 Place this file at: _layouts/project.liquid
-Works with al-folio Masonry when the page uses a .grid container (with a .grid-sizer).
+Optimized for vertical list rendering (no Masonry).
 {%- endcomment -%}
 
-<div class="project-card grid-item">
+<div class="project-card">
   {%- if entry.thumbnail -%}
     <img
       class="project-thumb"
