@@ -13,7 +13,7 @@ profile:
     <p>John Hope Franklin Center 103</p>
     <p>2204 Erwin Rd</p>
     <p>Durham, NC 277055</p>
-
+social: true # includes social icons at the bottom of the page
 
 ---
 
