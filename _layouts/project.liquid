@@ -2,6 +2,7 @@
 Custom template for Jekyll Scholar entries
 Place this file at: _layouts/project.liquid
 Optimized for vertical list rendering (no Masonry).
+"Year" field removed completely.
 {%- endcomment -%}
 
 <div class="project-card">
@@ -29,17 +30,9 @@ Optimized for vertical list rendering (no Masonry).
     <p class="project-authors">{{ entry.author }}</p>
   {%- endif -%}
 
-  {%- assign has_meta = false -%}
-  {%- if entry.status or entry.year -%}{% assign has_meta = true %}{% endif -%}
-  {%- if has_meta -%}
+  {%- if entry.status -%}
     <p class="project-meta">
-      {%- if entry.status -%}
-        <strong>Status:</strong> {{ entry.status }}
-        {%- if entry.year -%} · {%- endif -%}
-      {%- endif -%}
-      {%- if entry.year -%}
-        <strong>Year:</strong> {{ entry.year }}
-      {%- endif -%}
+      <strong>Status:</strong> {{ entry.status }}
     </p>
   {%- endif -%}
 
