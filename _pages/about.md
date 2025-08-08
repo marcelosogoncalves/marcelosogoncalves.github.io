@@ -7,7 +7,7 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic_color_cropped.jpg
+  image: prof_pic_bw_cropped.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>John Hope Franklin Center 103</p>
