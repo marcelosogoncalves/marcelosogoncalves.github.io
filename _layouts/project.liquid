@@ -1,23 +1,55 @@
 {%- comment -%}
-Minimal custom template for Jekyll Scholar entries
-Place in: _layouts/project.liquid
+Custom template for Jekyll Scholar entries
+Place this file at: _layouts/project.liquid
+Works with al-folio Masonry when the page uses a .grid container (with a .grid-sizer).
 {%- endcomment -%}
 
-<div class="project-card">
+<div class="project-card grid-item">
   {%- if entry.thumbnail -%}
-    <img class="project-thumb" src="{{ entry.thumbnail | relative_url }}" alt="Thumbnail for {{ entry.title }}">
+    <img
+      class="project-thumb"
+      src="{{ entry.thumbnail | relative_url }}"
+      alt="Thumbnail for {{ entry.title | strip }}"
+      loading="lazy"
+      decoding="async"
+    >
   {%- endif -%}
 
-  <h4 class="project-title">{{ entry.title }}</h4>
+  <h4 class="project-title">
+    {%- if entry.html -%}
+      <a href="{{ entry.html }}">{{ entry.title }}</a>
+    {%- elsif entry.url -%}
+      <a href="{{ entry.url }}">{{ entry.title }}</a>
+    {%- else -%}
+      {{ entry.title }}
+    {%- endif -%}
+  </h4>
 
-  <p class="project-authors">{{ entry.author }}</p>
+  {%- if entry.author -%}
+    <p class="project-authors">{{ entry.author }}</p>
+  {%- endif -%}
 
-  {%- if entry.status -%}
-    <p class="project-status"><strong>Status:</strong> {{ entry.status }}</p>
+  {%- assign has_meta = false -%}
+  {%- if entry.status or entry.year -%}{% assign has_meta = true %}{% endif -%}
+  {%- if has_meta -%}
+    <p class="project-meta">
+      {%- if entry.status -%}
+        <strong>Status:</strong> {{ entry.status }}
+        {%- if entry.year -%} · {%- endif -%}
+      {%- endif -%}
+      {%- if entry.year -%}
+        <strong>Year:</strong> {{ entry.year }}
+      {%- endif -%}
+    </p>
   {%- endif -%}
 
   {%- if entry.keywords -%}
-    <p class="project-keywords">{{ entry.keywords }}</p>
+    {%- assign kws = entry.keywords | split: ',' -%}
+    <p class="project-keywords">
+      {%- for kw in kws -%}
+        <span class="tag">{{ kw | strip }}</span>
+      {%- endfor -%}
+    </p>
   {%- endif -%}
 
   {%- if entry.abstract -%}
@@ -27,10 +59,25 @@ Place in: _layouts/project.liquid
     </details>
   {%- endif -%}
 
+  {%- assign links = "" -%}
   <div class="project-links">
-    {%- if entry.pdf -%}<a href="{{ entry.pdf }}">📄 PDF</a>{%- endif -%}
-    {%- if entry.slides -%} · <a href="{{ entry.slides }}">📊 Slides</a>{%- endif -%}
-    {%- if entry.code -%} · <a href="{{ entry.code }}">💻 Code</a>{%- endif -%}
+    {%- if entry.pdf -%}
+      <a href="{{ entry.pdf }}">📄 PDF</a>
+      {%- assign links = "y" -%}
+    {%- endif -%}
+    {%- if entry.slides -%}
+      {%- if links != "" -%} · {%- endif -%}
+      <a href="{{ entry.slides }}">📊 Slides</a>
+      {%- assign links = "y" -%}
+    {%- endif -%}
+    {%- if entry.code -%}
+      {%- if links != "" -%} · {%- endif -%}
+      <a href="{{ entry.code }}">💻 Code</a>
+      {%- assign links = "y" -%}
+    {%- endif -%}
+    {%- if entry.website -%}
+      {%- if links != "" -%} · {%- endif -%}
+      <a href="{{ entry.website }}">🔗 Project page</a>
+    {%- endif -%}
   </div>
 </div>
-
