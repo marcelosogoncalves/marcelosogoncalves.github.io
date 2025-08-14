@@ -23,4 +23,4 @@ Drawing on insights from both political science and economics, I adopt an interd
 
 I am currently a PhD candidate in Public Policy at Duke University and a <a href='https://jhfc.duke.edu/academics/vdhfellows/' target='_blank'>von der Heyden Global Fellow</a>. I also have over 15 years of experience as a <a href='https://anesp.org.br/english' target='_blank'>Specialist in Public Policy and Management (EPPGG)</a> in the Brazilian federal government, where I have collaborated on numerous policy evaluations and led initiatives in areas ranging from food security to racial equity and climate adaptation.
 
-You can reach me at: <a href='ms1019@duke.edu' target='_blank'>ms1019@duke.edu</a> 
+You can reach me at: <a href='mailto:ms1019@duke.edu' target='_blank'>ms1019@duke.edu</a> 
