@@ -21,8 +21,8 @@ I am a political economist working at the intersection of development, climate, 
 
 My research agenda is informed by nearly 15 years of experience as a <a href='https://anesp.org.br/english' target='_blank'>Specialist in Public Policy and Management (EPPGG)</a> in the Brazilian federal government, where I contributed to numerous policy evaluations and led initiatives spanning food security, racial equity, and climate adaptation.
 
-I am currently a PhD candidate in Public Policy at Duke University. Beginning in Fall 2026, I will join the <a href='https://seas.umich.edu/' target='_blank'>School for Environment and Sustainability (SEAS)</a> at the University of Michigan as an Assistant Professor of Global Environmental Policy.
+I hold a Ph.D. in Public Policy from Duke University. Beginning in Fall 2026, I will join the <a href='https://seas.umich.edu/' target='_blank'>School for Environment and Sustainability (SEAS)</a> at the University of Michigan as an Assistant Professor of Global Environmental Policy.
 
 Originally from Brazil, I come from a working-class background and am a first-generation college graduate. In my spare time, I enjoy gardening, with mixed results.
 
-You can reach me at: <a href='mailto:ms1019@duke.edu' target='_blank'>ms1019@duke.edu</a> 
+You can reach me at: <a href='mailto:msog@umich.edu' target='_blank'>msog@umich.edu</a> 
