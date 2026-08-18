@@ -3,16 +3,16 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Duke University. <a href='https://sanford.duke.edu/' target='_blank'>Sanford School of Public Policy</a>
+  University of Michigan. <a href='https://seas.umich.edu/' target='_blank'>School for Environment and Sustainability</a>
 
 profile:
   align: right
   image: prof_pic_color_cropped.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>John Hope Franklin Center 103</p>
-    <p>2204 Erwin Rd</p>
-    <p>Durham, NC 27705</p>
+    <p> Dana Building, 3503</p>
+    <p>440 Church Street</p>
+    <p>Ann Arbor, MI 48109</p>
 
 
 ---
