@@ -10,8 +10,8 @@ profile:
   image: prof_pic_color_cropped.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Dana Building, 3503</p>
     <p>440 Church Street</p>
+    <p> Dana Building, 3503</p>
     <p>Ann Arbor, MI 48109</p>
 
 
