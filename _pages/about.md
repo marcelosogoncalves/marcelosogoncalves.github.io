@@ -22,8 +22,10 @@ My research examines how institutions, incentives, and individual behavior shape
 
 My research agenda is informed by nearly 15 years of experience as a <a href='https://anesp.org.br/english' target='_blank'>Specialist in Public Policy and Management (EPPGG)</a> in the Brazilian federal government, where I contributed to numerous policy evaluations and led initiatives spanning food security, racial equity, and climate adaptation.
 
-I earned my Ph.D. in Public Policy from Duke University. Beginning in Fall 2026, I will join the <a href='https://seas.umich.edu/' target='_blank'>School for Environment and Sustainability (SEAS)</a> at the University of Michigan as an Assistant Professor of Global Environmental Policy.
+I earned my Ph.D. in Public Policy from Duke University. 
 
 Originally from Brazil, I come from a working-class background and am a first-generation college graduate. In my spare time, I enjoy gardening, with mixed results.
 
 You can reach me at: <a href='mailto:msog@umich.edu' target='_blank'>msog@umich.edu</a> 
+
+
