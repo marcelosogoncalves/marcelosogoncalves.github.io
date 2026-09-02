@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 4
 ---
-[Download my CV (PDF)](/assets/pdf/CV_Marcelo_Goncalves_april_26.pdf)
+[Download my CV (PDF)](/assets/pdf/CV_Marcelo_Goncalves__sep26.pdf)
 
 
 
