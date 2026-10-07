@@ -6,8 +6,8 @@ description:
 nav: true
 nav_order: 4
 ---
-[Download my CV (PDF)](/assets/pdf/CV_Marcelo_Goncalves__sep26.pdf)
+[Download my CV (PDF)](/assets/pdf/CV_Marcelo_Goncalves__academic_(3).pdf)
 
 
 
-<iframe src="/assets/pdf/CV_Marcelo_Goncalves__sep26.pdf" width="100%" height="1000px"></iframe>
+<iframe src="/assets/pdf/CV_Marcelo_Goncalves__academic_(3).pdf" width="100%" height="1000px"></iframe>
