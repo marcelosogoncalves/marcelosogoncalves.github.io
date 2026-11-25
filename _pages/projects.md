@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: This page features my ongoing research projects and working papers. Drafts are available for feedback or questions, but are not yet recommended for citation.
+description: Working papers. Comments welcome. Please cite the latest version linked below.
 nav: true
 nav_order: 3
 ---
